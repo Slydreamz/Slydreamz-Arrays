@@ -4,7 +4,7 @@
  * For instance, we could have an array of 10 ints or 10 Strings.
  *
  * Or, we could have an array of our own custom Objects, such as our own Bird class for a birdwatching
- * application. This would allow us to keep track of many birds and their own behavior.
+ * application This would allow us to keep track of many birds and their own behavior.
  *
  * For the following problems, all of the syntax we need is in this documentation:
  * https://www.learnjavaonline.org/en/Arrays
